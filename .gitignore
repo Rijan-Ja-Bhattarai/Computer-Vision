@@ -1,0 +1,6 @@
+.jpg
+.tar.gz
+.ipynb_checkpoints
+__pycache__/
+# Ignore the .vscode folder which contains workspace settings and launch configurations
+.vscode/
