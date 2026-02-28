@@ -1,6 +1,19 @@
-.jpg
-.tar.gz
-.ipynb_checkpoints
+# Ignore image files
+*.jpg
+
+# Ignore compressed files
+*.tar.gz
+*.gz
+
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore pycache
 __pycache__/
-# Ignore the .vscode folder which contains workspace settings and launch configurations
+
+# Ignore virtual environment
+myenv/
+
+# Ignore vscode settings
 .vscode/
